@@ -6,5 +6,6 @@ namespace Custmsg
 {
     public class Class2
     {
+        int i;
     }
 }
