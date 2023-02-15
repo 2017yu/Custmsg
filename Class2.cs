@@ -8,5 +8,6 @@ namespace Custmsg
     {
         int i;
         int j;
+        int rr;
     }
 }
